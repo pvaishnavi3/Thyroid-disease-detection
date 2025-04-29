@@ -29,12 +29,16 @@ numpy for numerical operations.
 matplotlib for visualizing data and results.
 
 **How to Run the Project:**
+
 1.Clone this repository:
 git clone https://github.com/pvaishnavi3/Thyroid-disease-detection.git
+
 2.Navigate to the project folder:
 cd Thyroid-disease-detection
+
 3.Install the required dependencies:
 pip install -r requirements.txt
+
 4.Run the Python script to start the application:
 python app.py
 
