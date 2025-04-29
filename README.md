@@ -15,30 +15,20 @@ Performance Evaluation: Evaluates the model's accuracy using metrics like accura
 
 **Technologies Used:**
 Python: Core programming language.
-
 Tkinter: Used for creating a simple graphical user interface (GUI).
-
 Machine Learning Libraries:
-
 scikit-learn for model building.
-
 pandas for data manipulation.
-
 numpy for numerical operations.
-
 matplotlib for visualizing data and results.
 
 **How to Run the Project:**
-
 1.Clone this repository:
 git clone https://github.com/pvaishnavi3/Thyroid-disease-detection.git
-
 2.Navigate to the project folder:
 cd Thyroid-disease-detection
-
 3.Install the required dependencies:
 pip install -r requirements.txt
-
 4.Run the Python script to start the application:
 python app.py
 
