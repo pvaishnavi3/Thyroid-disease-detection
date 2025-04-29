@@ -1,5 +1,5 @@
 ![Screenshot 2025-04-29 185805](https://github.com/user-attachments/assets/87a22a87-9635-46e0-8cdc-b1815e813cfc)
-**Thyroid Disease Detection using Machine Learning**
+**Thyroid Disease Detection using Machine Learning**:
 This project is designed to predict the likelihood of thyroid disease in individuals using a machine learning model. 
 It leverages a dataset of various health features to determine whether a person is at risk of having thyroid disease or not. 
 The goal of the project is to provide an automated system for early detection, helping to reduce diagnosis time and improve patient care.
